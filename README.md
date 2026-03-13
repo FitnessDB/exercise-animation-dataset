@@ -73,8 +73,17 @@ https://leetcodepro.gumroad.com/l/vfyug
 ---
 # Sample Exercise Animations
 
--![vKilzz3](https://github.com/user-attachments/assets/946220b0-743a-4ce5-8e96-e33f9461f4be)
--![c8oybX6](https://github.com/user-attachments/assets/6ef9ac28-507e-4256-8717-862a0d83369b)
+### Exercise Animation 1
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/946220b0-743a-4ce5-8e96-e33f9461f4be" width="500">
+</p>
+
+### Exercise Animation 2
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ef9ac28-507e-4256-8717-862a0d83369b" width="500">
+</p>
 
 # Perfect For
 
