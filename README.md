@@ -71,7 +71,21 @@ Get Full Dataset
 https://leetcodepro.gumroad.com/l/vfyug
 
 ---
+# Sample Exercise Animations
 
+Below are examples of exercise animations included in the dataset.
+
+### Barbell Reverse Grip Incline Bench Row
+
+![Exercise Demo](https://static.exercisedb.dev/media/8d8qJQI.gif)
+
+### Dumbbell Curl
+
+![Exercise Demo](https://static.exercisedb.dev/media/3u7hP1c.gif)
+
+### Push Up
+
+![Exercise Demo](https://static.exercisedb.dev/media/0iC8qgT.gif)
 # Perfect For
 
 This dataset is useful for developers building:
@@ -90,9 +104,9 @@ All animations and dataset content are licensed for commercial use.
 
 Purchasing this dataset grants you:
 
-✓ Lifetime commercial usage
-✓ Use in mobile apps
-✓ Use in SaaS platforms
-✓ Use in websites
+- ✓ Lifetime commercial usage  
+- ✓ Use in mobile apps  
+- ✓ Use in SaaS platforms  
+- ✓ Use in websites  
 
 ⚠️ Redistribution or resale of the dataset is not permitted.
