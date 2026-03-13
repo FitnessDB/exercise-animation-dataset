@@ -76,13 +76,13 @@ https://leetcodepro.gumroad.com/l/vfyug
 ### Exercise Animation 1
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/946220b0-743a-4ce5-8e96-e33f9461f4be" width="500">
+  <img src="https://github.com/user-attachments/assets/c7daade1-dca4-4116-9db1-bfc11930c78e" width="500">
 </p>
 
 ### Exercise Animation 2
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6ef9ac28-507e-4256-8717-862a0d83369b" width="500">
+  <img src="https://github.com/user-attachments/assets/44209bd8-da66-4176-88f3-2f8118c5809a" width="500">
 </p>
 
 # Perfect For
