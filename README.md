@@ -1,4 +1,4 @@
-![vKilzz3](https://github.com/user-attachments/assets/83323eb5-78a0-4848-b330-2ded474a9840)# FitnessDB — Exercise Animation Dataset for Fitness Apps
+# FitnessDB — Exercise Animation Dataset for Fitness Apps
 
 **FitnessDB** is a developer-ready exercise dataset designed for building modern fitness applications, workout planners, and AI fitness platforms.
 
@@ -73,8 +73,8 @@ https://leetcodepro.gumroad.com/l/vfyug
 ---
 # Sample Exercise Animations
 
-![vKilzz3](https://github.com/user-attachments/assets/946220b0-743a-4ce5-8e96-e33f9461f4be)
-![c8oybX6](https://github.com/user-attachments/assets/6ef9ac28-507e-4256-8717-862a0d83369b)
+-![vKilzz3](https://github.com/user-attachments/assets/946220b0-743a-4ce5-8e96-e33f9461f4be)
+-![c8oybX6](https://github.com/user-attachments/assets/6ef9ac28-507e-4256-8717-862a0d83369b)
 
 # Perfect For
 
