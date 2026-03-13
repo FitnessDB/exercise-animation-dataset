@@ -1,89 +1,93 @@
-# Exercise Animation Dataset for Fitness Apps (1500+ Exercises)
+# FitnessDB — Exercise Animation Dataset for Fitness Apps
 
-A developer-ready **exercise animation dataset** designed for building modern fitness applications, workout planners, and AI fitness coaching platforms.
+**FitnessDB** is a developer-ready exercise dataset designed for building modern fitness applications, workout planners, and AI fitness platforms.
 
-This dataset contains **1500+ structured exercises with animated GIF demonstrations**, making it easy for developers to integrate exercise libraries into mobile apps, websites, or fitness software.
+It includes **structured exercise data with animated GIF demonstrations**, making it easy to integrate exercise libraries into mobile apps, websites, or SaaS fitness platforms.
 
 ---
 
-## Why Developers Need an Exercise Animation Dataset
+# Why Developers Need an Exercise Dataset
 
-When building a fitness app or workout tracking platform, developers usually need:
+When building a fitness app or workout platform, developers usually need structured data such as:
 
 * Exercise names
-* Muscle groups targeted
-* Equipment information
-* Exercise instructions
-* Visual exercise demonstrations
-
-While exercise lists are easy to find, **exercise animations are much harder to collect**.
-
-Creating exercise demonstrations manually requires recording videos, converting them to animations, and structuring the data.
-
-This dataset solves that problem by providing **a ready-to-use exercise animation database**.
-
----
-
-## Dataset Features
-
-* 1500+ exercises
-* Animated GIF demonstrations
-* Structured JSON format
 * Target muscle groups
 * Secondary muscles
-* Body part categorization
-* Equipment requirements
+* Equipment required
 * Step-by-step instructions
+* Visual exercise demonstrations
 
-This makes it ideal for developers building fitness platforms.
+While exercise lists can be found online, **exercise animations and structured datasets are much harder to obtain**.
 
----
-
-## Example Exercise Object
-
-Example JSON exercise structure:
-
-```
-{
-  "exerciseId": "8d8qJQI",
-  "name": "barbell reverse grip incline bench row",
-  "gifUrl": "exercise-animation.gif",
-  "targetMuscles": ["upper back"],
-  "secondaryMuscles": ["biceps", "forearms"],
-  "bodyParts": ["back"],
-  "equipments": ["barbell"]
-}
-```
+FitnessDB provides a ready-to-use exercise dataset so developers can focus on building features instead of collecting exercise data manually.
 
 ---
 
-## Perfect For
+# Dataset Features
+
+* Animated exercise demonstrations (GIF)
+* Structured developer-friendly JSON format
+* Primary and secondary muscle targeting
+* Body part classification
+* Equipment information
+* Step-by-step instructions
+* Easy integration into mobile and web apps
+
+---
+
+# Pricing Options
+
+FitnessDB is available in two versions depending on your needs.
+
+### Starter Dataset (300+ Exercises)
+
+Perfect for smaller projects or developers who want a lightweight exercise library.
+
+Includes:
+
+* 300+ structured exercises
+* Animated GIF demonstrations
+* JSON exercise data
+* Muscle targeting and equipment details
+
+Get Starter Dataset
+https://leetcodepro.gumroad.com/l/sgpsd
+
+---
+
+### Full Dataset (1500+ Exercises)
+
+Best for production fitness apps and full workout platforms.
+
+Includes:
+
+* 1500+ structured exercises
+* Animated GIF demonstrations
+* Complete exercise library
+* JSON developer-ready dataset
+* Muscle targeting and instructions
+
+Get Full Dataset
+https://leetcodepro.gumroad.com/l/vfyug
+
+---
+
+# Perfect For
 
 This dataset is useful for developers building:
 
 * Fitness mobile apps
 * Workout planner tools
-* Personal trainer platforms
-* AI fitness coaching apps
+* AI fitness coaching platforms
 * Gym training systems
-* Health and wellness platforms
+* Health and wellness startups
 
 ---
 
-## Get the Full Dataset
-
-You can get access to the complete dataset here:
-
-https://leetcodepro.gumroad.com/l/vfyug
-
-After purchase you receive the full exercise dataset ready for integration into your applications.
-
----
-
-## Keywords
+# Keywords
 
 exercise dataset
-exercise animation dataset
 fitness exercise database
+exercise animation dataset
 exercise gif dataset
 exercise dataset for fitness apps
