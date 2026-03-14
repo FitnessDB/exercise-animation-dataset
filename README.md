@@ -47,12 +47,11 @@ Includes:
 
 * 300+ structured exercises
 * Animated GIF demonstrations
-* JSON exercise data
-* Muscle targeting and equipment details
+* Complete exercise library
+* JSON developer-ready dataset
+* Muscle targeting and instructions
 
-Get Starter Dataset
-https://leetcodepro.gumroad.com/l/sgpsd
-
+[Get the 300+ Exercise Dataset](https://leetcodepro.gumroad.com/l/sgpsd)
 ---
 
 ### Full Dataset (1500+ Exercises)
@@ -67,8 +66,7 @@ Includes:
 * JSON developer-ready dataset
 * Muscle targeting and instructions
 
-Get Full Dataset
-https://leetcodepro.gumroad.com/l/vfyug
+[Get the Full 1500+ Exercise Dataset](https://leetcodepro.gumroad.com/l/vfyug)
 ---
 
 # Example Exercise JSON
