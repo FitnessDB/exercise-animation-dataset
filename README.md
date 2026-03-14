@@ -77,7 +77,7 @@ Includes:
 * animated demonstrations
 * structured JSON dataset
 
-[Get the 300+ Exercise Dataset](https://leetcodepro.gumroad.com/l/yoxyh)
+[Get the 300+ Exercise Dataset](https://leetcodepro.gumroad.com/l/sgpsd)
 
 ---
 
@@ -92,7 +92,7 @@ Includes:
 * structured JSON dataset
 * categorized exercise metadata
 
-[Get the Full 1500+ Exercise Dataset](https://leetcodepro.gumroad.com/l/imaioi)
+[Get the Full 1500+ Exercise Dataset](https://leetcodepro.gumroad.com/l/vfyug)
 
 ---
 
