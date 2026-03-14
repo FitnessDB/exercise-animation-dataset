@@ -44,29 +44,29 @@ Perfect for smaller projects or developers who want a lightweight exercise libra
 
 Includes:
 
-* 300+ structured exercises
+* 300 structured exercises
 * Animated GIF demonstrations
 * Complete exercise library
 * JSON developer-ready dataset
 * Muscle targeting and instructions
 
-[Get the 300+ Exercise Dataset](https://leetcodepro.gumroad.com/l/sgpsd)
+[Get the 300 Exercise Dataset](https://leetcodepro.gumroad.com/l/sgpsd)
 
 ---
 
-## Complete Exercise Library (1500+ Exercises)
+## Complete Exercise Library (1500 Exercises)
 
 Best for production fitness apps and full workout platforms.
 
 Includes:
 
-* 1500+ structured exercises
+* 1500 structured exercises
 * Animated GIF demonstrations
 * Complete exercise library
 * JSON developer-ready dataset
 * Muscle targeting and instructions
 
-[Get the Full 1500+ Exercise Dataset](https://leetcodepro.gumroad.com/l/vfyug)
+[Get the Full 1500 Exercise Dataset](https://leetcodepro.gumroad.com/l/vfyug)
 
 ---
 
