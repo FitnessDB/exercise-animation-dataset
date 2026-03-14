@@ -32,14 +32,13 @@ FitnessDB provides a ready-to-use exercise dataset so developers can focus on bu
 * Equipment information
 * Step-by-step instructions
 * Easy integration into mobile and web apps
-
 ---
 
-# Pricing Options
+# Dataset Packages
 
-FitnessDB is available in two versions depending on your needs.
+Two dataset packages are available depending on the size of your project.
 
-### Starter Dataset (300+ Exercises)
+## Starter Package (300 Exercises)
 
 Perfect for smaller projects or developers who want a lightweight exercise library.
 
@@ -52,9 +51,10 @@ Includes:
 * Muscle targeting and instructions
 
 [Get the 300+ Exercise Dataset](https://leetcodepro.gumroad.com/l/sgpsd)
+
 ---
 
-### Full Dataset (1500+ Exercises)
+## Complete Exercise Library (1500+ Exercises)
 
 Best for production fitness apps and full workout platforms.
 
@@ -67,6 +67,7 @@ Includes:
 * Muscle targeting and instructions
 
 [Get the Full 1500+ Exercise Dataset](https://leetcodepro.gumroad.com/l/vfyug)
+
 ---
 
 # Example Exercise JSON
