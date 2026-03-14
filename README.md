@@ -1,4 +1,4 @@
-# FitnessDB — Exercise Animation Dataset for Fitness Apps
+# FitnessDB — 1500 Exercises with GIF Animations
 
 **FitnessDB** is a developer-ready exercise dataset designed for building modern fitness applications, workout planners, and AI fitness platforms.
 
@@ -69,6 +69,42 @@ Includes:
 
 Get Full Dataset
 https://leetcodepro.gumroad.com/l/vfyug
+---
+
+# Example Exercise JSON
+
+Below is an example of how exercises are structured in the dataset.
+
+```json id="v0ypl3"
+{
+    "exerciseId": "VX5YKR5",
+    "name": "assisted lying leg raise with throw down",
+    "gifUrl": "https://static.exercisedb.dev/media/VX5YKR5.gif",
+    "targetMuscles": [
+      "abs"
+    ],
+    "bodyParts": [
+      "waist"
+    ],
+    "equipments": [
+      "assisted"
+    ],
+    "secondaryMuscles": [
+      "hip flexors",
+      "quadriceps"
+    ],
+    "instructions": [
+      "Step:1 Lie flat on your back with your legs extended and your arms by your sides.",
+      "Step:2 Place your hands under your glutes for support.",
+      "Step:3 Engage your core and lift your legs off the ground, keeping them straight.",
+      "Step:4 Raise your legs until they are perpendicular to the ground.",
+      "Step:5 Lower your legs back down to the starting position.",
+      "Step:6 Simultaneously, throw your legs down towards the ground, keeping them straight.",
+      "Step:7 Raise your legs back up to the starting position.",
+      "Step:8 Repeat for the desired number of repetitions."
+    ]
+  }
+```
 
 ---
 # Sample Exercise Animations
@@ -97,15 +133,14 @@ This dataset is useful for developers building:
 
 ---
 
-# 🔑 License & Usage
+# Usage Terms
 
-All animations and dataset content are licensed for commercial use.
+The dataset can be used in commercial and personal software projects.
 
-Purchasing this dataset grants you:
+Permitted uses include:
 
-- ✓ Lifetime commercial usage  
-- ✓ Use in mobile apps  
-- ✓ Use in SaaS platforms  
-- ✓ Use in websites  
+* mobile applications
+* SaaS platforms
+* websites and web tools
 
-⚠️ Redistribution or resale of the dataset is not permitted.
+However, redistribution of the dataset files themselves or reselling the dataset as a standalone product is not allowed.
