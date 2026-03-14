@@ -1,72 +1,39 @@
-# FitnessDB — 1500 Exercises with GIF Animations
+# Workout Exercise Library — 1500+ Exercises with GIF Animations
 
-**FitnessDB** is a developer-ready exercise dataset designed for building modern fitness applications, workout planners, and AI fitness platforms.
+A structured **exercise library for developers** building fitness applications, training platforms, and workout planning software.
 
-It includes **structured exercise data with animated GIF demonstrations**, making it easy to integrate exercise libraries into mobile apps, websites, or SaaS fitness platforms.
-
----
-
-# Why Developers Need an Exercise Dataset
-
-When building a fitness app or workout platform, developers usually need structured data such as:
-
-* Exercise names
-* Target muscle groups
-* Secondary muscles
-* Equipment required
-* Step-by-step instructions
-* Visual exercise demonstrations
-
-While exercise lists can be found online, **exercise animations and structured datasets are much harder to obtain**.
-
-FitnessDB provides a ready-to-use exercise dataset so developers can focus on building features instead of collecting exercise data manually.
+The dataset contains **1500+ exercises with animated GIF demonstrations** and structured JSON metadata. It allows developers to quickly integrate exercise content into their apps without manually collecting workout data.
 
 ---
 
-# Dataset Features
+# Overview
 
-* Animated exercise demonstrations (GIF)
-* Structured developer-friendly JSON format
-* Primary and secondary muscle targeting
-* Body part classification
-* Equipment information
-* Step-by-step instructions
-* Easy integration into mobile and web apps
----
+Developers building fitness software often need a comprehensive exercise catalog that includes structured information about movements, muscles, and equipment.
 
-# Dataset Packages
+Creating this dataset manually requires:
 
-Two dataset packages are available depending on the size of your project.
+* researching hundreds of exercises
+* categorizing muscle groups
+* writing instructions
+* preparing exercise demonstrations
 
-## Starter Package (300 Exercises)
-
-Perfect for smaller projects or developers who want a lightweight exercise library.
-
-Includes:
-
-* 300 structured exercises
-* Animated GIF demonstrations
-* Complete exercise library
-* JSON developer-ready dataset
-* Muscle targeting and instructions
-
-[Get the 300 Exercise Dataset](https://leetcodepro.gumroad.com/l/sgpsd)
+This project provides a **ready-to-use exercise dataset** designed specifically for developers working on fitness-related products.
 
 ---
 
-## Complete Exercise Library (1500 Exercises)
+# Dataset Highlights
 
-Best for production fitness apps and full workout platforms.
+The dataset includes:
 
-Includes:
+* 1500+ exercise entries
+* animated exercise demonstrations (GIF)
+* structured JSON format
+* muscle targeting information
+* equipment classification
+* body part grouping
+* step-by-step instructions
 
-* 1500 structured exercises
-* Animated GIF demonstrations
-* Complete exercise library
-* JSON developer-ready dataset
-* Muscle targeting and instructions
-
-[Get the Full 1500 Exercise Dataset](https://leetcodepro.gumroad.com/l/vfyug)
+The data format is designed to integrate easily with mobile apps, web applications, and fitness APIs.
 
 ---
 
@@ -76,59 +43,68 @@ Below is an example of how exercises are structured in the dataset.
 
 ```json id="v0ypl3"
 {
-    "exerciseId": "VX5YKR5",
-    "name": "assisted lying leg raise with throw down",
-    "gifUrl": "VX5YKR5.gif",
-    "targetMuscles": [
-      "abs"
-    ],
-    "bodyParts": [
-      "waist"
-    ],
-    "equipments": [
-      "assisted"
-    ],
-    "secondaryMuscles": [
-      "hip flexors",
-      "quadriceps"
-    ],
-    "instructions": [
-      "Step:1 Lie flat on your back with your legs extended and your arms by your sides.",
-      "Step:2 Place your hands under your glutes for support.",
-      "Step:3 Engage your core and lift your legs off the ground, keeping them straight.",
-      "Step:4 Raise your legs until they are perpendicular to the ground.",
-      "Step:5 Lower your legs back down to the starting position.",
-      "Step:6 Simultaneously, throw your legs down towards the ground, keeping them straight.",
-      "Step:7 Raise your legs back up to the starting position.",
-      "Step:8 Repeat for the desired number of repetitions."
-    ]
-  }
+  "exerciseId": "3TZduzM",
+  "name": "barbell incline bench press",
+  "gifUrl": "3TZduzM.gif",
+  "targetMuscles": ["pectorals"],
+  "bodyParts": ["chest"],
+  "equipments": ["barbell"],
+  "secondaryMuscles": ["shoulders", "triceps"],
+  "instructions": [
+    "Step:1 Set up an incline bench at a 45-degree angle.",
+    "Step:2 Lie down on the bench with your feet flat on the ground.",
+    "Step:3 Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+    "Step:4 Unrack the barbell and lower it slowly towards your chest, keeping your elbows at a 45-degree angle.",
+    "Step:5 Pause for a moment at the bottom, then push the barbell back up to the starting position.",
+    "Step:6 Repeat for the desired number of repetitions."
+  ]
+}
 ```
 
 ---
-# Sample Exercise Animations
 
-### Exercise Animation 1
+# Dataset Packages
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c7daade1-dca4-4116-9db1-bfc11930c78e" width="500">
-</p>
+Two dataset packages are available depending on the size of your project.
 
-### Exercise Animation 2
+## Starter Package (300 Exercises)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/44209bd8-da66-4176-88f3-2f8118c5809a" width="500">
-</p>
+Ideal for prototypes, smaller projects, or developers exploring workout applications.
 
-# Perfect For
+Includes:
 
-This dataset is useful for developers building:
+* 300 curated exercises
+* animated demonstrations
+* structured JSON dataset
 
-* Fitness mobile apps
-* Workout planner tools
-* AI fitness coaching platforms
-* Gym training systems
-* Health and wellness startups
+[Get the 300+ Exercise Dataset](https://leetcodepro.gumroad.com/l/yoxyh)
+
+---
+
+## Complete Exercise Library (1500+ Exercises)
+
+Designed for production fitness platforms and large-scale applications.
+
+Includes:
+
+* full exercise library
+* animated demonstrations
+* structured JSON dataset
+* categorized exercise metadata
+
+[Get the Full 1500+ Exercise Dataset](https://leetcodepro.gumroad.com/l/imaioi)
+
+---
+
+# Typical Use Cases
+
+Developers use exercise datasets for:
+
+* fitness mobile apps
+* workout planners
+* AI training assistants
+* gym coaching platforms
+* health & wellness products
 
 ---
 
