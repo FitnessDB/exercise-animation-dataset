@@ -78,7 +78,7 @@ Below is an example of how exercises are structured in the dataset.
 {
     "exerciseId": "VX5YKR5",
     "name": "assisted lying leg raise with throw down",
-    "gifUrl": "https://static.exercisedb.dev/media/VX5YKR5.gif",
+    "gifUrl": "VX5YKR5.gif",
     "targetMuscles": [
       "abs"
     ],
